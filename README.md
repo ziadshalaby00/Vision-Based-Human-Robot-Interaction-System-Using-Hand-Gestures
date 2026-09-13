@@ -2,6 +2,12 @@
 
 A real-time hand gesture recognition system that controls a 3D humanoid robot through computer vision. The system captures hand landmarks via webcam, interprets gestures into robot commands, and streams both the camera feed and 3D animation to a web dashboard.
 
+<p align="center">
+  <img width="32%" alt="Screenshot_2" src="https://github.com/user-attachments/assets/f921bad1-aec0-42f1-9cce-be4f43062010" />
+  <img width="32%" alt="Screenshot_1" src="https://github.com/user-attachments/assets/84174867-2903-4987-93c3-692f2bd654d9" />
+  <img width="32%" alt="Screenshot_3" src="https://github.com/user-attachments/assets/9a8097bf-c2b0-4486-b0ec-bce53412d390" />
+</p>
+
 ---
 
 ## How It Works
