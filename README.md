@@ -110,12 +110,5 @@ python core.py
 | `robot-web/` | Browser-based 3D dashboard |
 | `Temp.py` | Standalone Tkinter testing utility |
 
----
-
-## 📄 License
-
-Developed entirely by [Ziad Shalaby](https://github.com/ziadshalaby00).
-
-This project is licensed under the **MIT License**.
 
 ---
